@@ -1,0 +1,20 @@
+# Dependency folders
+/node_modules/
+/vendor/
+
+# Sensitive files
+.env
+
+# Cache and build folders
+/storage/*
+!/storage/framework/*
+!/storage/logs/
+public/storage
+
+# IDE settings
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
